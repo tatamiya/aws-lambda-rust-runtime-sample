@@ -1,0 +1,6 @@
+/target
+*.sh
+*.zip
+*.json
+.python-version
+.cargo
